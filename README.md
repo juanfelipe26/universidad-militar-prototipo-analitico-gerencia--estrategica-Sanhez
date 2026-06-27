@@ -18,7 +18,7 @@
 
 ---
 
-## Paso 3: Fórmula
+## Paso 2: Fórmula
 
 | Nombre del indicador | Numerador (Variable Y) | Denominador (Población) | Fórmula (Matemática) | Prueba de estrés | Tipo (Marca una) |
 |---|---|---|---|---|---|
@@ -30,11 +30,11 @@ tasa_exito_acceso × nivel_seguridad_percibida/cantidad_fallas_biometricas + eve
 
 | Frecuencia de medición | Fuente de datos (Verificación) |
 |---|---|
-| Mensual: Una vez al mes. | Base de datos. |
+| Mensual: Una vez al mes. | Encuesta corta a residentes. |
 
 ---
 
-## Paso 6: Seguimiento
+## Paso 3: Seguimiento
 
 | Línea base (Patrón actual) | Patrón esperado (Meta) | Condición de refutación (Fallo). Es el número que te dice que tu idea no funcionó. |
 |---|---|---|
